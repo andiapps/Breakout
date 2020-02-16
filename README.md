@@ -16,9 +16,12 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Roadmap
 The project is currently on its version 2.0. There are several plans under construction. Future releases and features are listed below:
+
 Version 2.1: Rebuild the app using better code structure including using more classes to group functions and avoid problems brought by global declared structs. A restart game feature will be added. 
+
 Version 2.2: Completing the game by adding start screen, levels and sound effect. 
-Version 3: Introducing AR to Breakout. The player may interact with his/her hand. The platform will be moved to iOS. 
+
+Version 3.0: Introducing AR to Breakout. The player may interact with his/her hand. The platform will be moved to iOS. 
 
 
 ## License
